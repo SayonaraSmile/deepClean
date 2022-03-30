@@ -1,6 +1,18 @@
 /*
 Custom Css
 */
+.ft-img{
+    box-sizing: border-box;
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+    object-fit: cover;
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
 .ft-icon{
     pointer-events: none;
 }
